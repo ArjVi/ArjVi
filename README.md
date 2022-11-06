@@ -1,3 +1,5 @@
+<h1 align="center">Welcome to my GitHub Profile!</h1>
+
 - 👋 Hi, I’m @ArjVi
 - 👀 I’m interested in aviation!
 - 🌱 I’m currently learning HTML/CSS/JS and attending CS50 course
