@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I’m @ArjVi</h1>
 
 ---
+<p align="right">Me learning how to code:</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 👀 I’m interested in aviation!
 - 🌱 I’m currently learning HTML/CSS/JS
