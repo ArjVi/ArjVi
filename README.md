@@ -4,11 +4,11 @@
 <h2>⚡️ About me </h2>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 👀 I’m interested in aviation! <br>
-- 🌱 I’m currently learning HTML/CSS <br>
+- 🌱 I’m currently learning HTML/CSS and C# <br>
 
-I am a Technical High School for Computer Science student and my favourite class is programming (web/c++ classes)
+I am a Technical High School for Computer Science student
 
-My dream is to become a game developer but for now I'm starting small with playing around in HTML/CSS (just for fun) and learning C# so i can work with the Unity Game Engine!
+Just playing around in HTML/CSS (for fun) and learning C# so I can work with the Unity Game Engine!
 
 <h2>🚀 To the moon!</h2>
 
