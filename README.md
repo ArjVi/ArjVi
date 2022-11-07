@@ -4,8 +4,7 @@
 <h2>⚡️ About me </h2>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 - 👀 I’m interested in aviation!
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on some basic projects!
+- 🌱 I’m currently learning HTML/CSS
 
 I am a Technical High School for Computer Science student and my favourite class is programming (web/c++ classes)
 
