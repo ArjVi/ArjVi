@@ -3,8 +3,8 @@
 ---
 <h2>⚡️ About me </h2>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-- 👀 I’m interested in aviation! <br>
-- 🌱 I’m currently learning Front End Development <br>
+- 👀 I’m interested in aviation <br>
+- 🌱 I’m currently learning HTML/CSS/JS <br>
 
 I am a Technical High School for Computer Science student
 
